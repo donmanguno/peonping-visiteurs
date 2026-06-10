@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "visiteurs",
   "display_name": "Les Visiteurs",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "author": { "name": "Mark Manguno", "github": "donmanguno" },
   "license": "CC-BY-NC-4.0",
   "language": "fr",
@@ -38,8 +38,8 @@
     },
     "resource.limit": {
       "sounds": [
-        { "file": "sounds/les-visiteurs-ou-sont-les-poulardes.mp3", "label": "Ou sont les poulardes ?" },
-        { "file": "sounds/les-visiteurs-ou-sont-les-poulardes-j'ai-faim-!.mp3", "label": "Ou sont les poulardes ?" }
+        { "file": "sounds/les-visiteurs-ou-sont-les-poulardes.mp3", "label": "Ou sont les poulardes ? J'ai faim !" },
+        { "file": "sounds/les-visiteurs-ou-sont-les-poulardes-jai-faim.mp3", "label": "Ou sont les poulardes? J'ai faim !" }
       ]
     },
     "user.spam": {
