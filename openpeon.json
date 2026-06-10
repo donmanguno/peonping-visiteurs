@@ -21,7 +21,7 @@
     "task.complete": {
       "sounds": [
         { "file": "sounds/les-visiteurs-limousin.mp3", "label": "Terminé" },
-        { "file": "sounds/les-visiteurs---et-on-lui-pèlera-le-jonc.mp3.mp3", "label": "Terminé" }
+        { "file": "sounds/les-visiteurs---et-on-lui-pelera-le-jonc.mp3.mp3", "label": "Terminé" }
       ]
     },
     "task.error": {
