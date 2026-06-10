@@ -1,0 +1,51 @@
+{
+  "cesp_version": "1.0",
+  "name": "visiteurs",
+  "display_name": "Les Visiteurs",
+  "version": "1.0.0",
+  "author": { "name": "Mark Manguno", "github": "donmanguno" },
+  "license": "CC-BY-NC-4.0",
+  "language": "fr",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/jacquouille-la-fripouille.mp3", "label": "Votre humble serviteur" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/les-visiteurs-ca_le_lance.mp3", "label": "Ça le lance !" },
+        { "file": "sounds/merci-la-gueuse.mp3", "label": "Merci la gueuse" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/les-visiteurs-limousin.mp3", "label": "Terminé" },
+        { "file": "sounds/les-visiteurs---et-on-lui-pèlera-le-jonc.mp3.mp3", "label": "Terminé" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/les-visiteurs-ca-puir.mp3", "label": "Ça puir !" },
+        { "file": "sounds/les-visiteurs-la-merdasse.mp3", "label": "La merdasse !" },
+        { "file": "sounds/sarasin.mp3", "label": "Un sarrasin !" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/jacquouille-allooo.mp3", "label": "Allô ?" }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/les-visiteurs-ou-sont-les-poulardes.mp3", "label": "Ou sont les poulardes ?" },
+        { "file": "sounds/les-visiteurs-ou-sont-les-poulardes-j'ai-faim-!.mp3", "label": "Ou sont les poulardes ?" }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/silence-la-vilaine-les-visiteurs.mp3", "label": "Silence la vilaine !" }
+      ]
+    }
+  }
+}
