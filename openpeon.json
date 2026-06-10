@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "visiteurs",
   "display_name": "Les Visiteurs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": { "name": "Mark Manguno", "github": "donmanguno" },
   "license": "CC-BY-NC-4.0",
   "language": "fr",
@@ -21,7 +21,7 @@
     "task.complete": {
       "sounds": [
         { "file": "sounds/les-visiteurs-limousin.mp3", "label": "Terminé" },
-        { "file": "sounds/les-visiteurs---et-on-lui-pelera-le-jonc.mp3.mp3", "label": "Terminé" }
+        { "file": "sounds/les-visiteurs---et-on-lui-pelera-le-jonc.mp3", "label": "Terminé" }
       ]
     },
     "task.error": {
